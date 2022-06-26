@@ -9,6 +9,7 @@ HTML5 ve Bootstrap teknolojileri kullanılarak oluşturulmuş MySql tabanlı Ara
 - Php
 - MySql
 
+## Web arayüzü özellikleri
 - Araba kiralayan müşteriyi kaydetme.
 - Araba kiralayan müşterinin bilgilerini güncelleme.
 - Araba kiralayan kullanıcının bilgilerini silme.
